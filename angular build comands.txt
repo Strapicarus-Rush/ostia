@@ -1,0 +1,2 @@
+
+--optimization --service-worker --named-chunks --cross-origin
